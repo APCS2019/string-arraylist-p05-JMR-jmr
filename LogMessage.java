@@ -46,7 +46,7 @@ and returns a list (possibly empty) containing the removed entries. Postconditio
             i--;
         }
         }
-        return LogMessage;
+        return LogMessage; 
     
     }
     
